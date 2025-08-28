@@ -1,7 +1,7 @@
 
 ![Banner](logos/sp.jpg)
 
-# Event-Recognition & Highlight Clipping ⚽
+# ERHC ⚽
 
 ## Short highlights + a live mini-map for every key moment.
 
