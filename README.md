@@ -1,7 +1,7 @@
 
-![Banner](Logos/sp.jpg)
+![Banner](logos/sp.jpg)
 
-# Event-Recognition & Highlight Clipping
+# Event-Recognition & Highlight Clipping ⚽
 
 ## Short highlights + a live mini-map for every key moment.
 
