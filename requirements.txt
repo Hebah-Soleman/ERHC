@@ -1,0 +1,8 @@
+scikit-video 
+tensorflow
+imutils 
+opencv-python
+SoccerNet 
+moviepy 
+scikit-learn 
+ffmpy
